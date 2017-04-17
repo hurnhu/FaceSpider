@@ -12,10 +12,10 @@ class radioStruct
     private $value;
 
 
-    public function zero(){
+    public function zero() {
         $this->value = 0;
     }
-    public function one(){
+    public function one() {
         $this->value = 1;
     }
 
